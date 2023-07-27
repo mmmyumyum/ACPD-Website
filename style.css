@@ -1,0 +1,37 @@
+#heading
+{
+    font-family: 'Abril Fatface', cursive;
+    font-size: xx-large;
+}
+
+#title1
+{
+    font-family: 'Creepster', cursive;
+}
+
+#Subheading
+{
+    font-family: 'Tektur', cursive;
+    font-size: xx-large;
+}
+
+#sprinkle_cake
+{
+    font-family: 'Borel', cursive;
+}
+
+#description
+{
+    font-family: 'Lumanosimo', cursive;
+}
+
+html
+{
+    background-color: black;
+}
+
+#warning
+{
+    font-family: 'Bungee Spice', cursive;
+
+}
