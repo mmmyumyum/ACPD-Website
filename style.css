@@ -1,4 +1,4 @@
-#heading
+#Heading
 {
     font-family: 'Abril Fatface', cursive;
     font-size: xx-large;
@@ -8,6 +8,11 @@
 }
 
 #title1
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#title2
 {
     font-family: 'Creepster', cursive;
 }
@@ -47,5 +52,9 @@ html
 .files
 {
     border-color: bisque;
+}
 
+#stalker_sam
+{
+    font-family: 'Rock Salt', cursive;
 }
