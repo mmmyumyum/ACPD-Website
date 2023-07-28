@@ -36,6 +36,7 @@
 html
 {
     background-color: black;
+    text-align: center;
 }
 
 #warning2
@@ -57,4 +58,19 @@ html
 #stalker_sam
 {
     font-family: 'Rock Salt', cursive;
+}
+
+#crazy_canadian_dude
+{
+    font-family: 'Permanent Marker', cursive;
+}
+
+#stands_for
+{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#stalker_family
+{
+    font-family: 'Yellowtail', cursive;
 }
